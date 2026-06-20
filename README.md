@@ -16,5 +16,4 @@ ML solutions.
 
 ## Links
 
-LinkedIn https://www.linkedin.com/in/michalwojdylak/
-Personal Website
+LinkedIn https://www.linkedin.com/in/michalwojdylak
