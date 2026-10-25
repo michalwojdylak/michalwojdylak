@@ -17,7 +17,7 @@ data → training → deployment → monitoring. I focus on high-performance inf
 
 ## 📜 Certifications
 
-- AWS Certified Developer – Associate
+- AWS Certified Developer - Associate
 - Google Cloud Professional Machine Learning Engineer
 - Microsoft Certified: Azure AI Engineer Associate
 - Microsoft Certified: Azure AI Fundamentals
